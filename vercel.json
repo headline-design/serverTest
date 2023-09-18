@@ -1,0 +1,8 @@
+{
+    "builds": [
+      {
+        "src": "./server.mjs.js",
+        "use": "@vercel/node"
+      }
+    ]
+  }
