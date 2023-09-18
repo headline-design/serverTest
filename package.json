@@ -9,6 +9,6 @@
   },
   "main": "server.mjs",
   "engines": {
-    "node": "20.x"
+    "node": "18.x"
   }
 }
